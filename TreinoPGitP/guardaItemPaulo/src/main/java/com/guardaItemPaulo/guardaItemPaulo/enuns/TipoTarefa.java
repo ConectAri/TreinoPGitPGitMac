@@ -1,4 +1,4 @@
-package com.guardaItemPaulo.guardaItemPaulo.domain;
+package com.guardaItemPaulo.guardaItemPaulo.enuns;
 
 public enum TipoTarefa {
     GUARDA ("Guarda"),
